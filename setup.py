@@ -12,9 +12,6 @@ setup(
     license='MIT',
     url="https://github.com/cybertronai/pytorch-lamb",
     install_requires=[
-        'torch>=0.4.1',
         'tqdm',
-        'tensorboardX',
-        'torchvision',
     ],
 )
